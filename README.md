@@ -1,4 +1,4 @@
-# Meu Portfólio - Miguel, Desenvolvedor de Software Aspirante
+# Meu Portfólio - Miguel, Desenvolvedor de Software 
 
 Olá! Eu sou Miguel, um aspirante a desenvolvedor de software com paixão por codificação e um desejo incessante de aprender. Este é meu portfólio, onde você pode conhecer um pouco mais sobre mim e minhas habilidades. 
 
@@ -34,7 +34,12 @@ Tenho experiência em várias linguagens de programação e softwares, incluindo
 
 ## Como me Encontrar
 
-Se você está interessado em colaborar em projetos, aprender junto comigo ou apenas bater um papo sobre desenvolvimento de software, sinta-se à vontade para me contatar. Você pode me encontrar no Linkedin[aqui](https://www.linkedin.com/in/miguel-de-oliveira-gon%C3%A7alves-298733247/).
+Se você está interessado em colaborar em projetos, aprender junto comigo ou apenas bater um papo sobre desenvolvimento de software, sinta-se à vontade para me contatar. Você pode me encontrar no LinkedIn:
+
+<a href="https://www.linkedin.com/in/miguel-de-oliveira-gon%C3%A7alves-298733247/">
+  <img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="LinkedIn" width="50" height="50">
+</a>
+
 
 ## Citação Favorita
 

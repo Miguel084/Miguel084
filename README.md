@@ -22,6 +22,8 @@ Tenho experiência em várias linguagens de programação e softwares, incluindo
 
 - **C++**: Minhas habilidades em C++ me permitem trabalhar em projetos de maior escala e complexidade.
 
+- **Next.js**: meu conhecimento em Next.js me permite desenvolver aplicações web de alto desempenho.
+
 ## Características Pessoais
 
 - Sou muito atencioso e tenho um pensamento lógico aguçado, o que me ajuda a resolver problemas de maneira eficaz.

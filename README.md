@@ -1,47 +1,27 @@
-# Meu Portfólio - Miguel, Desenvolvedor de Software 
+### Olá Mundo 🐱‍💻 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-de-oliveira-gon%C3%A7alves-298733247/)](https://www.linkedin.com/in/miguel-de-oliveira-gon%C3%A7alves-298733247/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/miguel084/)](https://github.com/miguel084/) ![](https://komarev.com/ghpvc/?username=miguel084)
 
-Olá! Eu sou Miguel, um aspirante a desenvolvedor de software com paixão por codificação e um desejo incessante de aprender. Este é meu portfólio, onde você pode conhecer um pouco mais sobre mim e minhas habilidades. 
+<p align="left"> 
+Olá! Eu sou Miguel, um aspirante a desenvolvedor de software com paixão por codificação e um desejo incessante de aprender. Este é meu portfólio, onde você pode conhecer um pouco mais sobre mim e minhas habilidades. <br> <br>
 
-## Habilidades Técnicas
+💼 Desenvolvedor de Software na `[SMIT]`<br>
+📚 Estudando `[ASP.NET & React]`<br>
+🎓 Graduando em `[Analise e Desenvolvimento de sistemas Pela UNINOVE]`<br>
+🔒 Interessado em Pentest (Teste de Penetração) e programação<br>
+</p>
 
-Tenho experiência em várias linguagens de programação e softwares, incluindo:
+### Minhas Habilidades: <br/> <br/> ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logoColor=white&logo=c) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logoColor=white&logo=sql) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logoColor=black&logo=powerbi) ![C# .NET](https://img.shields.io/badge/-C%23%20.NET-512BD4?style=flat&logoColor=white&logo=c-sharp) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logoColor=white&logo=php) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logoColor=black&logo=javascript) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logoColor=white&logo=c%2B%2B) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logoColor=white&logo=dot-net) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=white&logo=next-dot-js)
 
-- **C**: Minha base sólida em C me ajuda a compreender os fundamentos da programação de forma eficaz.
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguel084&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8&bg_color=333333&text_color=ffffff" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguel084&show_icons=true&count_private=true&bg_color=333333&text_color=ffffff" /></td>
+    </tr>   
+  </table>
+</center>
 
-- **SQL**: Dominar SQL me permite criar e gerenciar bancos de dados de forma eficiente.
-
-- **Power BI**: Com habilidades em Power BI, posso criar visualizações de dados poderosas e informativas.
-
-- **C# .NET**: Trabalhar com C# .NET me permite desenvolver aplicativos Windows robustos e escaláveis.
-
-- **PHP**: Com PHP, posso criar sites dinâmicos e interativos.
-
-- **Python**: Python é uma das minhas linguagens favoritas para desenvolvimento rápido e automação.
-
-- **HTML, CSS e JavaScript**: Essas são as ferramentas essenciais para o desenvolvimento web, e estou confortável com todas elas.
-
-- **C++**: Minhas habilidades em C++ me permitem trabalhar em projetos de maior escala e complexidade.
-
-- **Next.js**: meu conhecimento em Next.js me permite desenvolver aplicações web de alto desempenho.
-
-## Características Pessoais
-
-- Sou muito atencioso e tenho um pensamento lógico aguçado, o que me ajuda a resolver problemas de maneira eficaz.
-
-- Trabalhar em equipe é uma das minhas forças, pois acredito que a colaboração é fundamental para o sucesso de qualquer projeto.
-
-- Tenho uma paixão profunda pela área de Tecnologia da Informação (TI) e estou sempre ansioso para aprender mais.
-
-- Meu foco atual de estudo está na área de Pentest (Teste de Penetração) e programação, e estou ansioso para aprofundar meu conhecimento nessas áreas emocionantes.
-
-## Como me Encontrar
-
-Se você está interessado em colaborar em projetos, aprender junto comigo ou apenas bater um papo sobre desenvolvimento de software, sinta-se à vontade para me contatar. Você pode me encontrar no LinkedIn:
-
-<a href="https://www.linkedin.com/in/miguel-de-oliveira-gon%C3%A7alves-298733247/">
-  <img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="LinkedIn" width="50" height="50">
-</a>
-
+### ` Se você está interessado em colaborar em projetos, aprender junto comigo ou apenas bater um papo sobre desenvolvimento de software, sinta-se à vontade para me contatar. `
 
 ## Citação Favorita
 

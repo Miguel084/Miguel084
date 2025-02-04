@@ -5,7 +5,7 @@
 Olá! Eu sou Miguel, um aspirante a desenvolvedor de software com paixão por codificação e um desejo incessante de aprender. Este é meu portfólio, onde você pode conhecer um pouco mais sobre mim e minhas habilidades. <br> <br>
 
 💼 Desenvolvedor de Software na `[SMIT]`<br>
-📚 Estudando `[ASP.NET & React]`<br>
+📚 Estudando `[ASP.NET]`<br>
 🎓 Graduando em `[Analise e Desenvolvimento de sistemas Pela UNINOVE]`<br>
 🔒 Interessado em Pentest (Teste de Penetração) e programação<br>
 </p>
